@@ -58,3 +58,10 @@ gem 'pry-byebug'
 gem 'sendgrid'
 gem 'sendgrid-rails', '~> 2.0'
 gem "figaro"
+
+gem 'mixpanel-ruby'
+
+#577282eccac5b3456d3b97c9f2b44fc8
+
+gem "haml-rails"
+gem 'haml', '~> 4.0.5'
